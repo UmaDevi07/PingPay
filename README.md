@@ -2,6 +2,7 @@
 # PingPay: Payment Soundbox, No Hardware Needed
 
 **Live demo:** https://main.d1enb1o8sl37y5.amplifyapp.com/
+**Demo video:** https://youtu.be/lRS3ou6kD1w?si=DPHwqG61I03S_Dev
 
 PingPay turns any phone into a payment soundbox for small shopkeepers. When a customer pays, PingPay announces it out loud in Hindi or English, for example *"Divya Menon paid 1877 rupees via PhonePe."* No extra device, no monthly rental.
 
